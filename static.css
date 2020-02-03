@@ -1,0 +1,151 @@
+/* .background
+    background-color: black;
+
+background-image: 
+
+https://assets.nflxext.com/ffe/siteui/vlv3/d1f1a1dc-c017-4189-8fc2-193a3f3699b8/6cb68914-5a96-4fcf-b023-788b04a5f9c4/US-en-20200106-popsignuptwoweeks-perspective_alpha_website_small.
+ 
+.navbar {
+    text-color: rgb(216,18,18);
+}*/
+
+body {
+    margin: -35px;
+    background-color: darkgrey;
+    background-size: cover;
+    background-repeat: repeat;
+    
+}
+.email {
+    font-size: 10px;
+    color:gray;
+    text-align: left;
+    margin-left: 420px;
+    padding: 20px;
+    border: white;
+    width: 250px;
+}
+
+#signin {
+    background-color: rgb(216, 18,18);
+    color: white;
+    border: rgb(216, 18, 18);
+    margin-right: 30px;
+    float: right;
+    font-size: 15px;
+    padding: 12px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+ #netflix {
+     color: rgb(216, 18, 18);
+     font-size: 40px;
+     font-weight: bold;
+     padding-top: 30px;
+     margin-left: 50px;
+ }   
+
+.banner {
+
+    background-image:  linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),
+    url("https://assets.nflxext.com/ffe/siteui/vlv3/5812306a-6b67-4f2e-aac7-11436dda1e09/6886ffb5-7d67-48ff-a015-cdea516912e0/US-en-20200127-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    margin-top: 0px;
+    padding-top: -10px;
+    
+}
+#h3 {
+    text-align: center;
+    margin-top: 600px;
+    padding-top: 300px;
+    margin-left: 200px;
+}
+#h2 {
+      font-size: 70px;
+      text-align: center;
+      padding-top: 10px;
+      font-weight: bold;
+      margin-top: 100px;
+      margin-left: 300px;
+      margin-right: 300px;
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+
+  } 
+   
+#h4 {
+      font-size: 30px;
+      text-align: center;
+      font-weight: bold;
+
+  }
+  #h5 {
+      font-size: 20px;
+      text-align: center;
+      font-weight: bold;
+
+  }
+
+  /* Email Button  */
+.emailall {
+    display: flex;
+    flex-direction: row;
+}
+
+.email {
+    font-size: 10px;
+    color:gray;
+    text-align: left;
+    margin-left: 400px;
+    padding: 20px;
+    border: white;
+    width: 450px;
+}
+
+
+.red-style {
+    color: white;
+    background-color:rgb(216, 18, 18) ;
+    border: rgb(216, 18, 18);
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+    padding-top: 100;
+    margin-left:-3px;
+    
+}
+    
+
+/* img {
+    height: 20vh;
+    width: cover;
+} */
+/* .banner h1{
+    z-index: 3;
+} */
+
+.tv {
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+    background-color: darkgrey;
+    background-image: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png");
+    background-size: cover;
+    height: 50vh;
+    width: 40vw;
+    padding-top: 20px;
+    margin-top: 50vh;
+    margin-left: 700px;
+    
+
+}
+
+#h6 {
+    font-size: 40px;
+}
+
+#h7 {
+    font-size: 20px;
+}
+
