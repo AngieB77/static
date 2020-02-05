@@ -48,7 +48,7 @@ body {
 .banner {
 
     background-image:  linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),
-    url("https://assets.nflxext.com/ffe/siteui/vlv3/5812306a-6b67-4f2e-aac7-11436dda1e09/6886ffb5-7d67-48ff-a015-cdea516912e0/US-en-20200127-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    url('./assets/netflixSplash.jpg');
     background-size: cover;
     height: 100vh;
     color: white;
@@ -70,8 +70,6 @@ body {
       margin-top: 100px;
       margin-left: 300px;
       margin-right: 300px;
-      <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-
   } 
    
 #h4 {
@@ -131,7 +129,7 @@ body {
     align-items: stretch;
     flex-direction: column;
     background-color: lightgray;
-    background-image: url("https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png");
+    background-image: url('./assets/tv.png');
     background-size: cover;
     height: 40vh;
     width: 40vw;
